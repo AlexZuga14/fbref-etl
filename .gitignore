@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+mi_entorno/
+
+# Ignorar archivos CSV
+*.csv
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos del sistema
+.DS_Store
+
+
